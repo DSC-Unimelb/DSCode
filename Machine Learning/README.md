@@ -1,8 +1,4 @@
-# Workshop-1
+# Machine Learning by DSC-unimelb
 
-## Topics covered:
-- Intro to JupyterHub and JupyerLab
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
+## Overview
+- content yet to be added, someone please write an overview xD
