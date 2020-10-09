@@ -1,1 +1,8 @@
-Add your ML workshop skeleton code here in a folder with your Week number as the folder name
+# Workshop-1
+
+## Topics covered:
+- Intro to JupyterHub and JupyerLab
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
